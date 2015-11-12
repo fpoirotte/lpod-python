@@ -35,6 +35,7 @@ context_mapping = {
         'paragraph': ('//office:styles', '//office:automatic-styles'),
         'text': ('//office:styles',),
         'graphic': ('//office:styles',),
+        'number': ('//office:styles',),
         'page-layout': ('//office:automatic-styles',),
         'master-page': ('//office:master-styles',),
         'font-face': ('//office:font-face-decls',),
